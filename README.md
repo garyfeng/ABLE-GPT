@@ -4,9 +4,9 @@ prompts and configs for an experimental GPT on OpenAI
 
 
 # To-dos
-[ ] GPT generating an URL with QTI item encoded, so that the user can preview the item in the previewer
-[ ] external API to generate a QTI package from the GPT's output
-[ ] add actions to call the QTI-package-gen API
+- [ ] GPT generating an URL with QTI item encoded, so that the user can preview the item in the previewer
+- [ ] external API to generate a QTI package from the GPT's output
+- [ ] add actions to call the QTI-package-gen API
 
 # Activity Log
 ### 2024/1/31
